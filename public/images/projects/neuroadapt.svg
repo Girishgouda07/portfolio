@@ -1,0 +1,22 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#0A1014" />
+  <rect x="48" y="48" width="1104" height="128" rx="24" fill="#1E293B" />
+  <text x="72" y="108" fill="#7C3AED" font-family="Inter, sans-serif" font-size="56" font-weight="700">NeuroAdapt</text>
+  <text x="72" y="170" fill="#E2E8F0" font-family="Inter, sans-serif" font-size="24">AI-powered educational accessibility platform</text>
+  <rect x="72" y="220" width="1040" height="520" rx="24" fill="#111827" stroke="#334155" stroke-width="2" />
+  <rect x="96" y="252" width="200" height="200" rx="24" fill="#1E293B" />
+  <rect x="320" y="252" width="370" height="60" rx="18" fill="#1E293B" />
+  <rect x="320" y="332" width="520" height="40" rx="18" fill="#1E293B" />
+  <rect x="320" y="392" width="420" height="40" rx="18" fill="#1E293B" />
+  <rect x="320" y="452" width="480" height="40" rx="18" fill="#1E293B" />
+  <rect x="320" y="512" width="300" height="40" rx="18" fill="#1E293B" />
+  <circle cx="156" cy="570" r="36" fill="#7C3AED" />
+  <circle cx="156" cy="670" r="24" fill="#22C55E" />
+  <circle cx="156" cy="740" r="18" fill="#38BDF8" />
+  <text x="260" y="295" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="32" font-weight="600">Learning mode</text>
+  <text x="260" y="335" fill="#94A3B8" font-family="Inter, sans-serif" font-size="20">Simplified, dyslexia-friendly, ADHD-friendly</text>
+  <text x="260" y="395" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="28" font-weight="600">AI Text Transformation</text>
+  <text x="260" y="430" fill="#94A3B8" font-family="Inter, sans-serif" font-size="20">Summary, key terms, difficulty score</text>
+  <text x="260" y="490" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="28" font-weight="600">Voice + Accessibility Toolbar</text>
+  <text x="260" y="525" fill="#94A3B8" font-family="Inter, sans-serif" font-size="20">Keyboard navigation, contrast, fonts</text>
+</svg>
