@@ -47,7 +47,7 @@ const projects = [
       "Secure Data Storage",
       "Optional Cloud Synchronization",
     ],
-    liveUrl: "http://127.0.0.1:3001/index.html?vscode-livepreview=true",
+    liveUrl: null,
     githubUrl: null,
     isMainProject: true,
     status: "Completed",
