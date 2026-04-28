@@ -31,7 +31,7 @@ const projects = [
     liveUrl: "https://neuroadapt-steel.vercel.app/",
     githubUrl: "https://github.com/Girishgouda07/NEUROADAPT.git",
     isMainProject: true,
-    status: "In Progress",
+    status: "Completed",
   },
   {
     id: 2,
