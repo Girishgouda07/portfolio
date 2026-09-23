@@ -1,0 +1,26 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#0B1220" />
+  <rect x="48" y="48" width="1104" height="124" rx="24" fill="#14233C" />
+  <text x="72" y="108" fill="#38BDF8" font-family="Inter, sans-serif" font-size="56" font-weight="700">Sign Language Translator</text>
+  <text x="72" y="170" fill="#CBD5E1" font-family="Inter, sans-serif" font-size="22">Real-time gesture recognition with speech output and cloud sync</text>
+  <rect x="72" y="220" width="1040" height="516" rx="32" fill="#0F172A" stroke="#334155" stroke-width="2" />
+  <rect x="96" y="260" width="260" height="180" rx="24" fill="#1E293B" />
+  <path d="M180 330C190 310 220 310 236 330C252 350 272 350 286 330" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" />
+  <path d="M260 322L304 322" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" />
+  <path d="M316 262C325 240 355 240 368 262C378 278 386 296 386 315" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" />
+  <rect x="396" y="276" width="480" height="36" rx="18" fill="#1E293B" />
+  <rect x="396" y="328" width="560" height="32" rx="16" fill="#1E293B" />
+  <rect x="396" y="380" width="520" height="32" rx="16" fill="#1E293B" />
+  <rect x="396" y="432" width="460" height="32" rx="16" fill="#1E293B" />
+  <text x="96" y="520" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="24" font-weight="600">Live Mode</text>
+  <rect x="96" y="540" width="180" height="42" rx="21" fill="#38BDF8" />
+  <text x="140" y="572" fill="#0F172A" font-family="Inter, sans-serif" font-size="18" font-weight="700">Realtime</text>
+  <rect x="96" y="604" width="96" height="96" rx="20" fill="#334155" />
+  <path d="M110 640L170 640" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" />
+  <path d="M140 620L140 680" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" />
+  <path d="M304 684H672" stroke="#94A3B8" stroke-width="8" stroke-linecap="round" />
+  <path d="M304 720H576" stroke="#94A3B8" stroke-width="8" stroke-linecap="round" />
+  <rect x="704" y="520" width="360" height="180" rx="24" fill="#1E293B" />
+  <text x="728" y="565" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="28" font-weight="700">Speech Output</text>
+  <text x="728" y="605" fill="#94A3B8" font-family="Inter, sans-serif" font-size="20">Confidence, captions, translations</text>
+</svg>
