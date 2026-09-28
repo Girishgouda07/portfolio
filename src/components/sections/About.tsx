@@ -54,7 +54,7 @@ const About = () => {
     {
       icon: <GraduationCap className="h-5 w-5" />,
       label: "Education",
-      value: "B.Tech CSE (3rd Year)",
+      value: "B.Tech CSE (4th Year)",
     },
     {
       icon: <Code className="h-5 w-5" />,
@@ -136,10 +136,10 @@ const About = () => {
               </h3>
               <div className="space-y-4 text-white/70">
                 <p>
-                  I&apos;m Girishgouda C Sheshanagoudra, a dedicated and results-driven third-year Computer Science student specializing in Artificial Intelligence, full-stack web development, and cloud computing. I am proficient in programming languages such as Python, C, C++, Java, and JavaScript, and have a strong foundation in Data Structures and Algorithms.
+                  I&apos;m Girishgouda C Sheshanagoudra, a dedicated and results-driven 4th year Computer Science Engineering student specializing in full-stack web development and cloud computing. I am proficient in programming languages such as Python, C, C++, Java, and JavaScript, and have a strong foundation in Data Structures and Algorithms.
                 </p>
                 <p>
-                  I have experience building scalable web applications and AI-driven solutions using modern frameworks and cloud platforms. I have developed NeuroAdapt, an AI-powered educational accessibility platform, and an AI-Based Sign Language Translator using MediaPipe and JavaScript.
+                  I have experience building scalable web applications and AI-driven solutions using modern frameworks and cloud platforms. I have developed NeuroAdapt, an AI-powered educational accessibility platform.
                 </p>
                 <p>
                   I completed a 4-week internship as an AI and Cloud Intern at Edunet Foundation under IBM SkillsBuild. I was a finalist in DevHack 6.0 at IIT Dharwad, where I contributed to Smart Shop AI, and participated in the BuildIT Hackathon. I also led my team to victory in the Sagar Cup Cricket Tournament.

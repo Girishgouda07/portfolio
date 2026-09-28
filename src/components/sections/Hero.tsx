@@ -115,7 +115,7 @@ const Hero = () => {
                 transition={{ duration: 2, ease: "easeInOut" }}
                 className="inline-block overflow-hidden whitespace-nowrap"
               >
-                GIRISHGOUDA C S
+                GIRISHGOUDA C Sheshanagoudra
               </motion.span>
             </h1>
           </motion.div>
@@ -127,7 +127,7 @@ const Hero = () => {
             className="mb-8"
           >
             <h2 className="text-xl sm:text-2xl lg:text-3xl text-white/80 font-light">
-              Software Engineer & AI Specialist
+              Software Engineer & Full-Stack Development
             </h2>
             <p className="text-lg text-white/60 mt-4 max-w-2xl mx-auto">
               Specializing in AI and Intelligent Systems development with expertise in full-stack web development and cloud computing.
@@ -176,9 +176,9 @@ const Hero = () => {
             className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 max-w-2xl mx-auto"
           >
             {[
-              { number: "6+", label: "Projects Built" },
+              { number: "5+", label: "Projects Built" },
               { number: "10+", label: "Certifications Earned" },
-              { number: "8+", label: "Hackathons" },
+              { number: "5+", label: "Hackathons" },
               { number: "100%", label: "Client Satisfaction" },
             ].map((stat, index) => (
               <motion.div

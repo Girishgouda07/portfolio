@@ -357,10 +357,7 @@ const Experience = () => {
               Current Focus
             </h3>
             <p className="text-white/70 mb-6 max-w-3xl mx-auto">
-              As a 3rd year CSE student and active intern at Captain Side,
-              I&apos;m focused on mastering full-stack development, cloud
-              technologies, and building scalable applications that solve
-              real-world problems.
+              As a 4th year Computer Science Engineering student, I&apos;m focused on strengthening my programming and software development skills, building practical solutions through academic and internship projects, and continuously learning new technologies.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Badge

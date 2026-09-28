@@ -72,7 +72,7 @@ const Footer = () => {
               <p className="text-white/70 max-w-md">
                 A passionate full-stack developer building the future, one line
                 of code at a time. Currently pursuing B.Tech in CSE and working
-                as an intern at Captain Side.
+                
               </p>
               <div className="flex space-x-4">
                 {socialLinks.map((social, index) => (

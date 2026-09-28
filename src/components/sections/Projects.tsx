@@ -33,25 +33,7 @@ const projects = [
     isMainProject: true,
     status: "Completed",
   },
-  {
-    id: 2,
-    title: "AI-Based Sign Language Translator",
-    description:
-      "Real-time gesture recognition application using MediaPipe and JavaScript that constructs sentences dynamically, provides speech output with confidence feedback, and ensures secure storage with optional cloud synchronization.",
-    image: "/images/projects/sign-language.svg",
-    technologies: ["MediaPipe", "JavaScript", "Real-time Processing", "Gesture Recognition", "Speech Synthesis"],
-    features: [
-      "Real-time Gesture Recognition",
-      "Dynamic Sentence Construction",
-      "Speech Output with Confidence",
-      "Secure Data Storage",
-      "Optional Cloud Synchronization",
-    ],
-    liveUrl: null,
-    githubUrl: null,
-    isMainProject: true,
-    status: "Completed",
-  },
+  
   {
     id: 3,
     title: "Foodio – Full-Stack Food Delivery Platform",

@@ -81,7 +81,7 @@ const CurrentFocus = () => {
             variants={itemVariants}
             className="text-xl text-white/60 max-w-3xl mx-auto mb-12"
           >
-            As a 3rd-year Computer Science Engineering student, I am focused on mastering full-stack development and cloud technologies, with an emphasis on building scalable and efficient applications that address real-world challenges.
+            As a 4th year Computer Science Engineering student, I'm focused on strengthening my programming and software development skills, building practical solutions through academic and internship projects, and continuously learning new technologies. I enjoy problem solving, software development, and working on projects that help me apply my technical knowledge to real-world applications.
           </motion.p>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">

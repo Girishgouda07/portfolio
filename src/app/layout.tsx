@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "GIRISHGOUDA - Full Stack Developer | React, Next.js, Node.js Expert",
   description:
-    "Portfolio of GIRISHGOUDA, a passionate Full Stack Developer with 2+ years of experience. Specializing in React, Next.js, Node.js, AWS, and modern web technologies. Currently working as Full-Stack Developer Intern at Captain Side.",
+    "Portfolio of GIRISHGOUDA, a passionate Full Stack Developer with 2+ years of experience. Specializing in React, Next.js, Node.js, AWS, and modern web technologies.",
   keywords: [
     "Yeshwanth R",
     "Full Stack Developer",
