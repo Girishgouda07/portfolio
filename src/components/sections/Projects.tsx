@@ -61,6 +61,25 @@ const projects = [
     isMainProject: true,
     status: "Completed",
   },
+  {
+    id: 4,
+    title: "AI CCTV Surveillance System 🛡️",
+    description:
+      "An AI-powered surveillance system that analyzes video streams in real time to detect people, track movement, identify suspicious activities, and flag potential safety incidents. Built using Python, OpenCV, and YOLO11 for intelligent video monitoring and security analysis.",
+    image: "/images/projects/ai-cctv-surveillance.png",
+    technologies: ["Python", "OpenCV", "YOLO11", "Tkinter", "NumPy", "JSON"],
+    features: [
+      "Real-time Person Detection & Tracking",
+      "Suspicious Activity Detection",
+      "Fire & Emergency Incident Detection",
+      "Smart Alerts & Event Logging",
+    ],
+    liveUrl: null,
+    githubUrl: "https://github.com/Girishgouda07/minor",
+    isMainProject: true,
+    status: "Completed",
+    showAllFeatures: true,
+  },
 ];
 
 export default function Projects() {
@@ -182,7 +201,9 @@ export default function Projects() {
                       Key Features:
                     </h4>
                     <ul className="space-y-1">
-                      {project.features.slice(0, 3).map((feature, idx) => (
+                      {project.features
+                        .slice(0, project.showAllFeatures ? project.features.length : 3)
+                        .map((feature, idx) => (
                         <li
                           key={idx}
                           className="text-sm text-white/60 flex items-center"
@@ -190,7 +211,7 @@ export default function Projects() {
                           <ArrowRight className="w-3 h-3 mr-2 text-[#5237f9]" />
                           {feature}
                         </li>
-                      ))}
+                        ))}
                     </ul>
                   </div>
 

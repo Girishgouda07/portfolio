@@ -27,11 +27,10 @@ const Skills = () => {
       bgColor: "bg-blue-500/10",
       borderColor: "border-blue-500/20",
       skills: [
-        { name: "Python", level: 90, icon: "🐍" },
-        { name: "JavaScript", level: 85, icon: "🟨" },
         { name: "Java", level: 80, icon: "☕" },
-        { name: "C++", level: 75, icon: "⚡" },
-        { name: "C", level: 75, icon: "🔧" },
+        { name: "Python", level: 60, icon: "🐍" },
+        { name: "JavaScript", level: 85, icon: "🟨" },
+        { name: "C", level: 50, icon: "🔧" },
       ],
     },
     {

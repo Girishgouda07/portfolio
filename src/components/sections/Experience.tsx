@@ -302,7 +302,7 @@ const Experience = () => {
         >
           <motion.div variants={itemVariants} className="text-center mb-12">
             <h3 className="text-3xl font-bold text-white mb-4">
-              Hackathon <span className="text-primary">Achievements</span>
+              Hackathon <span className="text-primary">and Achievements</span>
             </h3>
             <p className="text-white/60">
               Competing and winning in India&apos;s top hackathons
