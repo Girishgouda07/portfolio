@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Github, Linkedin, Twitter, Mail, Heart, ArrowUp } from "lucide-react";
+import { Github, Linkedin, Mail, Heart, ArrowUp } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const Footer = () => {
@@ -20,12 +20,6 @@ const Footer = () => {
       icon: <Linkedin className="h-5 w-5" />,
       name: "LinkedIn",
       href: "https://www.linkedin.com/in/girishgouda-sheshanagoudra-62a792342/",
-      color: "hover:text-blue-400",
-    },
-    {
-      icon: <Twitter className="h-5 w-5" />,
-      name: "X (Twitter)",
-      href: "https://x.com/YESHWANTH_R_",
       color: "hover:text-blue-400",
     },
     {
